@@ -1,0 +1,5 @@
+//is a file that is ignored
+*.exe
+*.out
+
+* = every file with .exe or .out will be ignored (wont be saved)
